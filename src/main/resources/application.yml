@@ -1,0 +1,22 @@
+spring:
+  profiles:
+    active: dev
+
+
+#logging:
+#  level:
+#    com:
+#      hemantPandey:
+#        journalApp:TRACE
+
+#logging:
+#  level:
+#    root: ERROR
+
+#logging:
+#  level:
+#    com:
+#      hemantPandey:
+#        journalApp:
+#          service:
+#            UserService:OFF
